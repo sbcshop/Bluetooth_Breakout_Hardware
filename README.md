@@ -9,7 +9,7 @@ This github provides hardware design files of Bluetooth Breakout.
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Bluetooth_Breakout_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/Bluetooth_Breakout_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
-  - [Getting Started Guide](https://github.com/sbcshop/Bluetooth_Breakout_Software) - This repo contains Bluetooth Breakout Getting Started instructions and Sample Codes.
+  - [Getting Started Guide](https://github.com/sbcshop/Bluetooth_Breakout_Software) - This repo contains Bluetooth Breakout Getting Started instructions.
 
 
 ## Related Products
