@@ -14,7 +14,7 @@ This github provides hardware design files of Bluetooth Breakout.
 
 ## Related Products
 
-  * [MusicPi](https://shop.sb-components.co.uk/products/musicpi-high-quality-stereo-audio?variant=42131572293715)
+  * [MusicPi: Pico Based Audio Expansion](https://shop.sb-components.co.uk/products/musicpi-high-quality-stereo-audio?variant=42131572293715)
   
     ![MusicPi](https://shop.sb-components.co.uk/cdn/shop/files/6_576c3640-c7f2-4909-a74f-efc9b49ac6e3.png?v=1724243010&width=300)
   
