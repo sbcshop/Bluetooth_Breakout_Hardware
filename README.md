@@ -1,5 +1,5 @@
 # Bluetooth_Breakout_Hardware
-<!-- <img src="https://github.com/sbcshop/MusicPi_Software/blob/main/images/musicPi_banner.png"> -->
+<img src="https://github.com/sbcshop/Bluetooth_Breakout_Software/blob/main/images/main%20banner.jpg">
 
 Introducing the compact Bluetooth Breakout Board, designed for enhanced audio testing and entertainment. This versatile module serves as both an audio input and output, featuring an integrated amplifier circuit with left and right channels, delivering up to 3W per channel for crisp sound. Perfect for developers, it simplifies incorporating Bluetooth wireless technology into designs, making your workflow smoother and more efficient. Ideal for audio testing, development, and various experimental purposes.
 
